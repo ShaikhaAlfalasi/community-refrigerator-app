@@ -16,19 +16,11 @@ Mobile application that helps people in need locate community refrigerators with
 ## Prototype
 An interactive prototype was developed to demonstrate the application flow and interface.
 
-### 📸 Screenshots
+## 📸 Screenshots
 
-<p align="center">
-  <img src="prototype/screenshots/login.png" width="30%" />
-  <img src="prototype/screenshots/map.png" width="30%" />
-  <img src="prototype/screenshots/fridge_details.png" width="30%" />
-</p>
-
-<p align="center">
-  <b>Login Page</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Home Page</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Fridge Content Page</b>
-</p>
+| Login Page | Home Page | Fridge Content Page |
+|------------|------------|---------------------|
+| <img src="prototype/screenshots/login.png" width="200"/> | <img src="prototype/screenshots/map.png" width="200"/> | <img src="prototype/screenshots/fridge_details.png" width="200"/> |
 
 ## Documentation
 Project documents are available in the `docs/` folder.
