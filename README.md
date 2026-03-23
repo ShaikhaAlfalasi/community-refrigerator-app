@@ -19,9 +19,9 @@ An interactive prototype was developed to demonstrate the application flow and i
 ### 📸 Screenshots
 
 <p align="center">
-  <img src="prototype/screenshot/login.png" width="30%" />
-  <img src="prototype/screenshot/map.png" width="30%" />
-  <img src="prototype/screenshot/fridge_details.png" width="30%" />
+  <img src="prototype/screenshots/login.png" width="30%" />
+  <img src="prototype/screenshots/map.png" width="30%" />
+  <img src="prototype/screenshots/fridge_details.png" width="30%" />
 </p>
 
 <p align="center">
